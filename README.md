@@ -11,8 +11,8 @@ This is a social network for blogs. There you can create your personal page and 
 
 #### Stack:
 
-- Python 3.9
-- Django Framework 2.2.19
+- Python 3.8
+- Django Framework 2.2.16
 
 
 
