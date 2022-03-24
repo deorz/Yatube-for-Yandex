@@ -2,6 +2,7 @@
 #### Description:
 
 This is a social network for blogs. There you can create your personal page and then post everything you want.
+Now you can operate with it through API.
 
 
 
@@ -13,6 +14,7 @@ This is a social network for blogs. There you can create your personal page and 
 
 - Python 3.8
 - Django Framework 2.2.16
+- Django Rest Framework 3.12.4
 
 
 
